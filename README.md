@@ -30,6 +30,8 @@ Aims Grid:
 
         o	Sales analyst stop data gathering manually in order to save 20% of their business time and reinvest it value added activity 
 
+        https://prod-apnortheast-a.online.tableau.com/#/site/httptableausutapacom/views/AtliQ-Story/Story1
+
 
 ## Revenue Analysis
 ![Screenshot (39)](https://github.com/Sutapa94/AtliQ-Tableau-Analysis/assets/99960950/32303c16-b9bc-48cb-a834-36490b199274)
